@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1666544636461" clover="3.2.0">
+  <project timestamp="1666544636461" name="All files">
+    <metrics statements="27" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="7" elements="39" coveredelements="29" complexity="0" loc="27" ncloc="27" packages="1" files="3" classes="3"/>
+    <file name="engineer.js" path="C:\Users\anhkh\challenges\Team_Profile_Generator\lib\engineer.js">
+      <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+    </file>
+    <file name="intern.js" path="C:\Users\anhkh\challenges\Team_Profile_Generator\lib\intern.js">
+      <metrics statements="9" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+    </file>
+    <file name="manager.js" path="C:\Users\anhkh\challenges\Team_Profile_Generator\lib\manager.js">
+      <metrics statements="9" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="56" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
