@@ -13,4 +13,4 @@ There are no installations required.
 
 https://github.com/IamIncognito123/Team-Profile-Generator
 
-https://drive.google.com/drive/u/0/folders/1XVoO1wltfQ4jiUpJo0tJSACiC1M5J0hQ
+https://drive.google.com/file/d/1eGrxAzG2MqoSAVsCS2nBGwJXq2aqzhzd/view?usp=sharing
